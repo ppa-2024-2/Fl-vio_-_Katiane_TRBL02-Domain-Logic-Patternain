@@ -1,4 +1,4 @@
-# Flavio_-_Katiane_TRBL02-Domain-Logic-Patternain
+# Flavio_e_Katiane_TRBL02-Domain-Logic-Pattern
 
 ## Descrição da Atividade:
 
